@@ -1,0 +1,226 @@
+/* font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 26px;
+font-feature-settings: 'liga' off;
+
+color: #3E3E3E; */
+
+body{
+    font-family: Poppins;
+}
+
+/* header style */
+.title-1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    font-feature-settings: 'liga' off;
+
+    color: #3E3E3E;
+}
+
+.title-2{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    font-feature-settings: 'liga' off;
+    color: #3E3E3E;
+}
+
+
+.carosul-1, .carosul-2{
+    width: 100%;
+}
+
+.carosul-1 p{
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 12px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.carosul-1 button{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: white;
+    padding: 2px 15px;
+    background-color: rgba(0, 0, 0, 0.63);
+    border: 1px solid white;
+    border-radius: 3px;
+    margin-top: 0px;
+}
+
+.carosul-1 button:hover{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: white;
+    padding: 2px 15px;
+    background-color: rgba(128, 128, 128, 0.5);
+    border: 1px solid white;
+    border-radius: 3px;
+    margin-top: 0px;
+}
+
+.carosul-2 p{
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 22px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.carosul-2 button{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    padding: 5px 20px;
+    background-color: rgba(0, 0, 0, 0.63);
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.carosul-2 button:hover{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    padding: 5px 20px;
+    background-color: rgba(128, 128, 128, 0.5);
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.carosul-2 h5{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.carosul-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 15px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* main part */
+.main-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 33px;
+    text-align: center;
+    color: #222221;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+.section-2{
+    margin-bottom: 158px;
+}
+
+.padding-2{
+    align-items: center;
+}
+
+.margin-1{
+    margin-bottom: 25px;
+}
+
+.bor-1{
+    border-left: 5px solid rgba(0, 124, 255, 0.63);
+}
+
+.bor-2{
+    border: 2px solid green;
+    border-radius: 26px;
+    background-color: #3F87F5;
+}
+
+.bor-3{
+    background-color: #3F87F5;
+}
+
+.bttn-1{
+    padding: 13px 61px;
+    border: 2px solid white;
+    border-radius: 27px;
+    color: #3F87F5;
+}
+
+.fa-check-circle{
+    color: #3F87F5;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.fa-circle-1{
+    color: white;
+}
+
+.fa-gift{
+    margin-right: 8px;
+    font-size: 18px;
+    color: #3F87F5;
+}
+
+/* extra part */
+.bg-extra{
+    background-color: rgba(245, 222, 179, 0.197);
+    background-size: cover;
+    padding: 10px;
+}
+
+/* footer style */
+footer{
+    background-color: black;
+    width: 100%;
+    height: 265px;
+    background-size: cover;
+}
+
+footer p{
+    color: white;
+}
+
+.footer-1{
+    padding-top: 40px;
+}
+
+.f-logo{
+    margin-bottom: 20px;
+}
+
+.l-1{
+    width: 135px;
+    height: 40px;
+}
+
+.l-2{
+    width: 135px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
