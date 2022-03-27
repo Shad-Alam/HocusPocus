@@ -1,3 +1,3 @@
 Learning Frontend Desiging.
 
-Live Link:
+Live Link: https://hucuspucus.netlify.app/
