@@ -155,10 +155,29 @@ body{
 }
 
 .bttn-1{
-    padding: 13px 61px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    padding: 10px 41px;
     border: 2px solid white;
-    border-radius: 27px;
-    color: #3F87F5;
+    color: #164ea1;
+    background: white;
+    border-radius: 30px;
+    font-weight: normal;
+    font-size: 15px;
+    letter-spacing: .08rem;
+}
+
+.bttn-1:hover{
+    margin-top: 20px;
+    margin-bottom: 35px;
+    padding: 10px 41px;
+    border: 2px solid white;
+    color: white;
+    background: #081e41;
+    border-radius: 30px;
+    font-weight: normal;
+    font-size: 15px;
+    letter-spacing: .08rem;
 }
 
 .fa-check-circle{
